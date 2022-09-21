@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Flor Lioi 👋🏼
+#### Front End Developer 💻
 
 <!--
 **FlorLioi/FlorLioi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
